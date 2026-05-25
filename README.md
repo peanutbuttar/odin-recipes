@@ -5,6 +5,7 @@ HTML skills I have learned:
 elements and Tags
 lists
 links and images
+With this project, I practiced all of these basic skills and am capable of using them from now on.
 
 I have learned the basic flow of git as a distributed version control system: first a change is made, then it is added to the staging area, then it is commited to the branch, then it is pushed on to the main branch
 git skills I have learned:
